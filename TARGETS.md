@@ -15,7 +15,7 @@ In addition to our KPIs, you will need to know some key terms to understand this
 - **Conversion Rate**: The conversion rate is the percentage of leads that turn into sales. 
 - **Churn**: The number of users that leave Equalify each year. We're estimated
 
-## Customer Categories
+### Customer Categories
 We group customers into four categories. Each category is defined by how much they spend, the number of pages we manage for them, and the percentage of leads we convert into that category. Here are our four customer categories:
 - **Lead**: Spends $0 and manages 0 pages.
 - **First 100**: Spends $5720/year and manages up to 150,000 pages. 2% of these customers are converted from leads.
