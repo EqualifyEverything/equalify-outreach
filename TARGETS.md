@@ -31,7 +31,7 @@ The following assumptions were made to arrive at our targets:
 - **Churn**: 5% of users will quit Equalify year after year.
 
 ### Targets
-To reach a goal, we've established these year-after-year targets:
+To reach a goal, we've established these year-after-year targets. Year One started on August 7, 2028 (the day we took our first investment). Here are the targets:
 
 #### Year One
 - Leads: 454
